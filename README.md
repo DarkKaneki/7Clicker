@@ -1,1 +1,1 @@
-An open source autoclicker By Ruffian7. | Fork By DarkKaneki.
+Bypass any server set it to 10-12
